@@ -102,10 +102,6 @@ Used for all analytics after:
 
 ---
 
-## 🎤 Interview Explanation
-> *“I built a complete credit risk analysis system in PostgreSQL where I handled raw CSV ingestion, data cleaning, and advanced financial risk analytics using SQL.”*
-
----
 
 ## 🚀 Future Enhancements
 - Power BI / Tableau dashboard
