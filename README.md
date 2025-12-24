@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/risk-balance.webp" width="500"/>
+  <img 
+    src="Screenshots/businessman-carrying-money-bag-balancing-on-seesaw-facing-financial-risk-challenge-with-risk-blocks-metaphor-free-vector.webp" 
+    width="500"
+  />
 </p>
 
 # 🏦 Credit Loan Risk Analysis using PostgreSQL
 
 ## 📌 Project Overview
 This project focuses on **Credit Loan Risk Analysis** using **PostgreSQL**.  
-The goal is to analyze real-world loan data and identify **financial risk patterns**, **high-risk customers**, and **loan exposure** using advanced SQL techniques.
+It analyzes real-world loan data to identify **financial risk**, **credit behavior**, and **potential defaulters** using SQL.
 
-The project follows an **industry-standard analytics pipeline**:
+The project follows a **real industry data analytics pipeline**:
 - Raw data ingestion  
 - Data cleaning & transformation  
 - Business analysis  
@@ -19,12 +22,12 @@ The project follows an **industry-standard analytics pipeline**:
 ## 🎯 Project Objectives
 - Clean and standardize messy loan data
 - Analyze customer credit behavior
-- Identify high-risk loan applicants
-- Calculate financial risk metrics such as:
+- Identify high-risk customers
+- Calculate key risk metrics:
   - Debt-to-Income (DTI)
   - Credit Utilization Ratio
-  - Composite Risk Score
-- Demonstrate real-world SQL skills for **Data Analyst / FinTech roles**
+  - Risk Categories
+- Showcase strong **SQL + PostgreSQL** skills
 
 ---
 
@@ -34,9 +37,9 @@ The project follows an **industry-standard analytics pipeline**:
 | PostgreSQL 18 | Database |
 | SQL | Data Cleaning & Analysis |
 | pgAdmin 4 | Query Execution |
-| CSV Dataset | Loan Data Source |
+| CSV Dataset | Loan Data |
 | GitHub | Version Control |
 
 ---
 
-
+## 📂 Project Structure
