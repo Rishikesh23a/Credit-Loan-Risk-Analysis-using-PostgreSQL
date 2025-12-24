@@ -121,3 +121,13 @@ This project demonstrates **real-world SQL skills**, **data cleaning expertise**
 
 ### ⭐ If you find this project useful, give it a star!
 
+---
+
+## 👨‍💻 Developer
+
+Rushikesh Sable
+
+MIT AOE College,Pune
+
+📧 rushikeshsable9850@gmail.com
+---
