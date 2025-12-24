@@ -1,3 +1,5 @@
+# 🏦 Credit Loan Risk Analysis using PostgreSQL
+
 <p align="center">
   <img 
     src="Screenshots/businessman-carrying-money-bag-balancing-on-seesaw-facing-financial-risk-challenge-with-risk-blocks-metaphor-free-vector.webp" 
@@ -5,7 +7,7 @@
   />
 </p>
 
-# 🏦 Credit Loan Risk Analysis using PostgreSQL
+
 
 ## 📌 Project Overview
 This project focuses on **Credit Loan Risk Analysis** using **PostgreSQL**.  
