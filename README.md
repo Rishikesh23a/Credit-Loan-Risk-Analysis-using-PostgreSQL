@@ -7,7 +7,7 @@
   />
 </p>
 
-
+---
 
 ## 📌 Project Overview
 This project focuses on **Credit Loan Risk Analysis** using **PostgreSQL**.  
@@ -18,6 +18,18 @@ The project follows a **real industry data analytics pipeline**:
 - Data cleaning & transformation  
 - Business analysis  
 - Advanced risk analytics  
+
+---
+
+## 🎯 Why This Project Matters
+
+Credit risk analysis is crucial in banking and financial services for:
+- Evaluating loan applicants
+- Reducing default losses
+- Improving lending decisions
+- Supporting fair risk-based pricing
+
+This project showcases **how to handle messy real-world data**, perform **data cleaning**, and generate **business and risk insights** using SQL.
 
 ---
 
