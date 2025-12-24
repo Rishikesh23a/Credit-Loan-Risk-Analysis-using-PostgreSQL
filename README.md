@@ -1,6 +1,5 @@
-<p align="center">
 # 🏦 Credit Loan Risk Analysis using PostgreSQL
-</p>
+
 <p align="center">
   <img 
     src="Screenshots/businessman-carrying-money-bag-balancing-on-seesaw-facing-financial-risk-challenge-with-risk-blocks-metaphor-free-vector.webp" 
@@ -45,4 +44,80 @@ The project follows a **real industry data analytics pipeline**:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧱 Database Design
+
+### 🔹 Raw Table – `credit_data`
+- Stores CSV data exactly as imported
+- All columns stored as **TEXT**
+- Prevents issues with:
+  - `NA` values
+  - Empty strings
+  - Invalid formats
+
+### 🔹 Clean Table – `credit_data_clean`
+Used for all analytics after:
+- Type conversion
+- NULL handling
+- Data standardization
+
+---
+
+## 🧹 Data Cleaning Highlights
+- Converted `NA` and empty values to `NULL`
+- Safely cast TEXT → UUID / NUMERIC / INT
+- Standardized categorical values
+- Handled real-world data inconsistencies
+
+---
+
+## 📊 Analysis Performed
+
+### ✅ Basic Analysis
+- Total loans
+- Average loan amount
+- Average credit score
+- Loan distribution by term
+
+### 📈 Moderate Analysis
+- Credit score segmentation
+- Purpose-wise loan analysis
+- Debt-to-Income (DTI) calculation
+
+### 🚀 Advanced Analysis
+- Risk classification
+- Credit utilization ratio
+- Potential defaulter detection
+- Window functions & ranking
+- Composite risk scoring
+
+---
+
+## 🧠 Key Insights
+- High DTI + low credit score = higher default risk
+- Credit utilization is a strong stress indicator
+- Certain loan purposes contribute more to risk exposure
+
+---
+
+## 🎤 Interview Explanation
+> *“I built a complete credit risk analysis system in PostgreSQL where I handled raw CSV ingestion, data cleaning, and advanced financial risk analytics using SQL.”*
+
+---
+
+## 🚀 Future Enhancements
+- Power BI / Tableau dashboard
+- Machine Learning model for default prediction
+- Automated ETL pipeline
+
+---
+
+## ⭐ Conclusion
+This project demonstrates **real-world SQL skills**, **data cleaning expertise**, and **advanced analytical thinking** suitable for **Data Analyst / FinTech roles**.
+
+---
+
+### ⭐ If you find this project useful, give it a star!
+
