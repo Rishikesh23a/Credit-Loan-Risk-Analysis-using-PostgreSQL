@@ -1,0 +1,16 @@
+-- 1. Total number of loans
+-- 2. Average loan amount
+-- 3. Average credit score
+-- 4. Loan distribution by term
+-- 5. Home ownership distribution
+-- 6. Credit score segmentation
+-- 7. Purpose-wise loan amount analysis
+-- 8. Debt-to-Income (DTI) calculation
+-- 9. Customers with high DTI (>40%)
+-- 10. Risk classification model
+-- 11. Rank loans by loan amount (Window Function)
+-- 12. Credit utilization ratio
+-- 13. Customers with credit utilization > 80%
+-- 14. Potential defaulters (high-risk customers)
+-- 15. Loan Amount Distribution (Min, Max, Avg)
+-- 16. Top 5 Loans per Purpose
